@@ -22,7 +22,7 @@ Requires Python 2.7
 
 ## Help
 
-    python $ ./format.py --help
+    $ ./format.py --help
     usage: format.py [-h] [-w WIDTH]
 
     Reads text from standard input, then outputs formatted to a cpecified width
