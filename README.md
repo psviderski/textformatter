@@ -16,6 +16,8 @@ Write a program that takes on its standard input utf8-encoded text of any length
 
 ## Usage
 
+Requires Python 2.7
+
     ./format.py < text_file
 
 ## Help
